@@ -4,6 +4,7 @@ Query the  _Name_  of any student in  **STUDENTS**  who scored higher than  _Mar
 **Input Format**
 
 The  **STUDENTS**  table is described as follows:
+
 ![](https://s3.amazonaws.com/hr-challenge-images/12896/1443815243-94b941f556-1.png)
 
 The  _Name_  column only contains uppercase (`A`-`Z`) and lowercase (`a`-`z`) letters.
