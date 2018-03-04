@@ -31,7 +31,8 @@ Only Ashley, Julia, and Belvet have  _Marks_  >  . If you look at the last three
 
 ### Solution
 ```sql
-SELECT Name FROM STUDENTS
+SELECT Name 
+FROM STUDENTS
 WHERE Marks > 75
-ORDER BY RIGHT(Name, 3), ID;
+ORDER BY RIGHT(Name,3) , ID
 ```
